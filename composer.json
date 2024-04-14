@@ -1,0 +1,17 @@
+{
+    "name": "nosix/key-generator",
+    "autoload": {
+        "psr-4": {
+            "Nosix\\KeyGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Malik Rayyan",
+            "email": "malikrayyan263@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.2"
+    }
+}
